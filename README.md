@@ -1,0 +1,2 @@
+# FinTech_Data_Demo
+基于Python Tushare接口的A股茅台股价自动化抓取与均线分析项目
