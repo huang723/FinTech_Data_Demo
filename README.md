@@ -16,5 +16,8 @@
 3. **技术分析**: 计算并绘制 **5日均线 (MA5)** 与 **30日均线 (MA30)**。
 4. **可视化输出**: 自动生成高清股价走势图并导出。
 
+## 运行结果
+<img width="3600" height="1800" alt="maotai_daily_2025" src="https://github.com/user-attachments/assets/c7f8d050-5ebb-44fc-b5f8-007868361740" />
+
 ---
 *Created by 黄嘉仪*
